@@ -1,1 +1,1 @@
-# Programming logic course using Jiraya
+# Curso de lógica de programação virado no Jiraya 
